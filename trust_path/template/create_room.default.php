@@ -36,7 +36,7 @@
 <tr>
 <td>
 <span class="buttonc" style="margin: 15px 28px 0;">
-<input type="submit" name="submit" value="创立！" class="input" />
+<input type="submit" name="submit" value="สร้างห้อง" class="input" />
 </span>
 </td>
 </tr>
