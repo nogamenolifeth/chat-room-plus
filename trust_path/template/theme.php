@@ -3,8 +3,6 @@
 <head>
 <meta charset="UTF-8">
 <title><?php e(t(DURA_TITLE)) ?> - <?php e(t(DURA_SUBTITLE)) ?></title>
-<meta name="keywords" content="关键字" />
-<meta name="description" content="描述" />
 <link rel="shortcut icon" href="http://lovejiani.com/drrr/favicon.ico">
 <link href="<?php echo DURA_URL; ?>/css/style.css" rel="stylesheet" type="text/css" media="screen" />
 <script type="text/javascript" src="<?php e(DURA_URL) ?>/js/jquery.min.js"></script>
@@ -13,7 +11,7 @@
 duraUrl = "<?php e(DURA_URL) ?>";
 GlobalMessageMaxLength = <?php e(DURA_MESSAGE_MAX_LENGTH) ?>;
 useComet = <?php e(DURA_USE_COMET) ?>;
-//情敌你好 这里是相关脚本
+//æƒ…æ•Œä½ å¥½ è¿™é‡Œæ˜¯ç›¸å…³è„šæœ¬
 var toggle = function(){
 	$('#t_extra').slideToggle();
 	$('html, body').animate({scrollTop: $(document).height()}, 'slow'); 
@@ -32,6 +30,7 @@ var toggle = function(){
 <!--[if lt IE 9]>
 <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
 <![endif]-->
+<link href='https://fonts.googleapis.com/css?family=Kanit&subset=thai,latin' rel='stylesheet' type='text/css'>
 </head>
 
 <body>
