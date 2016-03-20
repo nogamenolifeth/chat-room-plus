@@ -18,7 +18,7 @@
 </div>
 
 <div class="t_toggle">
-  <p><font style="font-size:12px;"><a href="http://ukimanga.wordpress.com" onclick="toggle();">Ukimanga [ยูกิมังงะ]</a> - <a href="https://github.com/ky0ncheng/drrr-like-chat">Source [github]</a></font></p>
+  <p><font style="font-size:12px;"><a href="#" onclick="toggle();">ตั้งค่า</a> - <a href="ukimanga.wordpress.com">ผู้พัฒนา</a></font></p>
 </div>
 <div id="t_extra" style="display:none">
 <div class="t_language">
