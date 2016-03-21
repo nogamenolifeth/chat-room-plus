@@ -92,7 +92,7 @@ class Dura_Controller_CreateRoom extends Dura_Abstract_Controller
 			throw new Exception(t("Please input name."));
 		}
 
-		if ( mb_strlen($name) > 10 )
+		if ( mb_strlen($name) > 20 )
 		{
 			throw new Exception(t("Name should be less than 10 letters."));
 		}
