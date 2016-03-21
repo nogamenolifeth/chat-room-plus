@@ -19,11 +19,11 @@ body {
 background:#0a0a0a;
 color:#fff;
 font-size:16px;
-font-family:'Microsoft Yahei';
+font-family: 'Kanit', sans-serif;
 }
 
 input,textarea {
-font-family:'Microsoft Yahei';
+font-family: 'Kanit', sans-serif;
 }
 
 .clear {
@@ -83,7 +83,7 @@ resize:none;
 -moz-transition:.4s;
 -o-transition:.4s;
 transition:.4s;
-font-family:'Microsoft YaHei';
+font-family: 'Kanit', sans-serif;
 }
 
 .button:active {
@@ -131,7 +131,7 @@ resize:none;
 -moz-transition:.4s;
 -o-transition:.4s;
 transition:.4s;
-font-family:'Microsoft YaHei';
+font-family: 'Kanit', sans-serif;
 margin-left:4px;
 }
 
@@ -164,7 +164,7 @@ resize:none;
 -moz-transition:.4s;
 -o-transition:.4s;
 transition:.4s;
-font-family:UbuntuMonoBold,'Microsoft YaHei';
+font-family: 'Kanit', sans-serif;
 padding:1px 0;
 }
 
@@ -320,7 +320,7 @@ box-shadow:0 0 5px #5E5E5E;
 border:3px solid #5E5E5E;
 outline:none;
 width:490px;
-font-family:'Microsoft Yahei';
+font-family: 'Kanit', sans-serif;
 font-weight:700;
 font-size:18px;
 color:#2D2D2D;
@@ -348,7 +348,7 @@ border-radius:15px;
 border:3px solid #5E5E5E;
 outline:none;
 width:210px;
-font-family:UbuntuMonoBold,'Microsoft Yahei';
+font-family: 'Kanit', sans-serif;
 font-weight:700;
 font-size:20px;
 color:#5E5E5E;
@@ -424,7 +424,7 @@ border:4px #fff solid;
 -moz-border-radius:13px;
 -webkit-border-radius:13px;
 background:#000;
-font:1em 'Microsoft Yahei';
+font:1em 'Kanit';
 letter-spacing:3px;
 color:#FFF;
 -position:relative;
@@ -498,7 +498,7 @@ border:1px solid #fff;
 border-radius:7px;
 -webkit-border-radius:7px;
 -moz-border-radius:7px;
-font-family:UbuntuMonoBold,'Microsoft YaHei';
+font-family: 'Kanit', sans-serif;
 margin:40px 0 25px 3px;
 padding:1px;
 }
@@ -733,7 +733,7 @@ color:#0A0A0A;
 
 input,button,select,textarea {
 outline:none;
-font-family:UbuntuMonoBold,'Microsoft YaHei';
+font-family: 'Kanit', sans-serif;
 }
 
 @font-face {
